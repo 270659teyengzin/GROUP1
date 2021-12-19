@@ -1,0 +1,131 @@
+//270659 Tey Eng Zin
+Welcome to the Zin's Motorcycle Rental System!
+
+Please enter your personal details
+
+Enter your name: TEY ENG ZIN
+Enter your NRIC: 001112109702
+Enter your phone number: 60183794773
+Enter your email address: teyengzin@gmail.com
+
+	 -----------Packages----------
+
+	 Scooters 110-125cc for Town Only
+1 Day Only = RM40 Per Day
+2-6 Days = RM38 Per Day
+Weekly = RM248 Per Week
+
+	 Semi Auto 110CC for Long Distance
+1 Day Only = RM50 Per Day
+2-6 Days = RM40 Per Day
+Weekly = RM260 Per Week
+
+	 Semi Auto 125CC for Long Distance
+1 Day Only = RM50 Per Day
+2-6 Days = RM45 Per Day
+Weekly = RM280 Per Week
+
+	 Semi Auto 150CC for Long Distance
+1 Day Only = RM65 Per Day
+2-6 Days = RM60 Per Day
+Weekly = RM400 Per Week
+
+---------------------------------------------------------
+Refer to the packages, please enter the following details
+
+Model: 	 Scooters 110-125cc for Town Only
+Enter the rental date (dd/mm/yy): 25/12/2021
+Enter the return date (dd/mm/yy): 26/12/2021
+Enter the rental days: 1
+Price: RM40
+Total: RM36.0
+
+	 -----------Done----------
+Name : TEY ENG ZIN
+NRIC : 001112109702
+Phone Number : 60183794773
+Email Address : teyengzin@gmail.com
+Total payment : RM36.0
+
+Thank you, see you on that day!
+
+
+//277673 Choo Kuai Fern
+Hi ladies and gentlemen.Welcome to Firefly Airline & have a nice trip.
+Dear customers, you may order you onboard services here. ^^ 
+
+Please fill in your personal information here.
+
+Enter your nickname: Syahril
+Enter your gender: male
+Enter your phone number: 011-26000826
+Enter your seat number: FZ4256
+Enter your travel class: Buisness Class
+	 Lists Package of meals:   
+Package A = Scrambled Eggs With Beef Steak & Chicken Sausage (BCML) + Lemon Tea 
+PricePackageA= RM50
+Package B = Nasi Lemak With Prawns Sambal (AAML) + 7 UP 
+PricePackageB = RM45
+Belgian Waffle (BGML) +Caramel White Coffee 
+PricePackageC = RM30
+Vegan wrap + Hot cocoa  
+PricePackageD = RM15
+Double ham & cheese + Lavazza coffee 
+PricePackageE = RM25
+Friut salad 
+PricePackageF = RM15
+Oat meal 
+PricePackageG = RM10
+	
+Enter Packages of Meals
+ A
+ Quantity of package:    3
+Meal Package:    A =      RM50  
+Total:150.0
+Vat 12%:    0.18
+Type of Travel Class:    Buisness Class
+Discount:    1.5
+Total Price:    148.68
+Cash Rendered:    200
+Change:    51.31999999999999
+
+Thank you for puchasing the service of Firefly Airlines!
+
+//283667 Song Zhuangqing
+
+//283950 Muhammad Haikal
+
+//285676 Andyson Junis Anak James
+Welcome to the Ticket Booking System.
+
+Please Enter Your Personal Detail.
+Enter Your Name:
+ ANDYSON JUNIS ANAK JAMES
+Enter Your Age:
+20
+Enter Your Gender:
+MALE
+Enter your destination
+PERAK
+
+Please enter your departure and return date
+
+Departure
+18/12/21
+Return
+18/12/21
+Please select your ticket type :
+0.Economy       1. VIP 
+1
+Please input how many passengers you'd like to bring : 4
+Your Ticket will be appear soon.
+
+Name :  ANDYSON JUNIS ANAK JAMES
+Age : 20
+Gender : M
+Destination : PERAK
+Departure Date : 18/12/21
+Return date : 18/12/21
+Number of Passengers : 4
+Total Payment is : RM620.0
+Thank,you and Have a Save Journey!
